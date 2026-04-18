@@ -37,7 +37,7 @@
 
 ## ⚙️ How to Run Locally
 
-git clone https://github.com/YOUR_USERNAME/abutalha-developer.git
+git clone https://github.com/ABUTALHA-1212/abutalha-developer.git
 cd abutalha-developer
 pip install -r requirements.txt
 python app.py
